@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/SpringCloudDemo002Provider01_8001/SpringCloudDemo002Provider01_8001.iml" filepath="$PROJECT_DIR$/SpringCloudDemo002Provider01_8001/SpringCloudDemo002Provider01_8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloudDemo003Consumer01_80/SpringCloudDemo003Consumer01_80.iml" filepath="$PROJECT_DIR$/SpringCloudDemo003Consumer01_80/SpringCloudDemo003Consumer01_80.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloudDemo004Eureka01_7001/SpringCloudDemo004Eureka01_7001.iml" filepath="$PROJECT_DIR$/SpringCloudDemo004Eureka01_7001/SpringCloudDemo004Eureka01_7001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/erw/erw.iml" filepath="$PROJECT_DIR$/erw/erw.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloudDemotest.iml" filepath="$PROJECT_DIR$/springCloudDemotest.iml" />
     </modules>
   </component>
