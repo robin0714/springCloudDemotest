@@ -13,6 +13,7 @@
         <module>SpringCloudDemo002Provider01_8001</module>
         <module>SpringCloudDemo003Consumer01_80</module>
         <module>SpringCloudDemo004Eureka01_7001</module>
+        <module>erw</module>
     </modules>
 
 
